@@ -1,7 +1,7 @@
 # QuickMeets Android
 ## Main repo: https://github.com/NhLinh2610-maker/Quick-Meet
 ## Figma design: https://www.figma.com/design/i4FnnipvVWgu2auwbkTvJ2/QuickMeetsAndroidUI?node-id=0-1&t=wpxn2akcsTikPfnW-1
-Ứng dụng Android của QuickMeets, nền tảng họp nhóm nhanh không cần đăng nhập. Hiện repo mới có **project khởi đầu với Empty Activity và Jetpack Compose**; các chức năng họp chưa được triển khai.
+Ứng dụng Android của QuickMeets, nền tảng họp nhóm nhanh không cần đăng nhập. Project sử dụng **Java và giao diện XML**. Hiện repo mới có màn hình khởi đầu; các chức năng họp chưa được triển khai.
 
 ## Bắt đầu
 
@@ -13,7 +13,7 @@ Repo đã có Gradle Wrapper nên không cần cài Gradle riêng. Android Studi
 
 ## Cấu trúc project
 
-- `app/`: ứng dụng Android, hiện gồm `MainActivity` và màn hình Compose tối giản.
+- `app/`: ứng dụng Android, hiện gồm `MainActivity.java` và giao diện `res/layout/activity_main.xml` tối giản.
 - `docs/`: nơi lưu liên kết thiết kế và ghi chú tích hợp với nhóm Web/backend.
 
 

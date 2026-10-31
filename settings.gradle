@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "QuickMeetsAndroid"
-include(":app")
+rootProject.name = 'QuickMeetsAndroid'
+include ':app'
