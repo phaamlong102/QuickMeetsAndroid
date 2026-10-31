@@ -29,6 +29,7 @@ captures/
 !*.env.example
 secrets.properties
 
+.gitignore
 # OS files
 .DS_Store
 Thumbs.db
